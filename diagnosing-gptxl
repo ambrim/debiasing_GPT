@@ -1,0 +1,23 @@
+=== RESULT [gpt2-xl, identity_attack] ===
+{'test_pearsonr': 0.14909421990659696, 'test_accuracy': 0.61335, 'dev_pearsonr': 0.1661497026790005, 'dev_accuracy': 0.6205}
+
+=== RESULT [gpt2-xl, profanity] ===
+{'test_pearsonr': 0.3992726165512739, 'test_accuracy': 0.66445, 'dev_pearsonr': 0.4147231265392547, 'dev_accuracy': 0.678}
+
+=== RESULT [gpt2-xl, severe_toxicity] ===
+{'test_pearsonr': 0.30751169776790155, 'test_accuracy': 0.6176, 'dev_pearsonr': 0.3000713483845924, 'dev_accuracy': 0.6145}
+
+=== RESULT [gpt2-xl, sexually_explicit] ===
+{'test_pearsonr': 0.39017878345831675, 'test_accuracy': 0.6735, 'dev_pearsonr': 0.40720300223073946, 'dev_accuracy': 0.678}
+
+=== RESULT [gpt2-xl, threat] ===
+{'test_pearsonr': 0.30801397112267437, 'test_accuracy': 0.6241, 'dev_pearsonr': 0.2721951917785479, 'dev_accuracy': 0.61}
+
+=== RESULT [gpt2-xl, toxicity] ===
+{'test_pearsonr': 0.43334611135998163, 'test_accuracy': 0.68155, 'dev_pearsonr': 0.46265821023079756, 'dev_accuracy': 0.704}
+
+=== RESULT [gpt2-xl, insult] ===
+{'test_pearsonr': 0.4878620358931542, 'test_accuracy': 0.715, 'dev_pearsonr': 0.45091619930657845, 'dev_accuracy': 0.7095}
+
+=== RESULT [gpt2-xl, political] ===
+{'test_pearsonr': 0.26359306803017446, 'test_accuracy': 0.7008333333333333, 'dev_pearsonr': 0.2179117146091552, 'dev_accuracy': 0.701}

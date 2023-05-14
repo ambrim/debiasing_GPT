@@ -1,0 +1,18 @@
+=== RESULT [t5-large, identity_attack] ===
+{'test_pearsonr': 0.3074945253566447, 'test_accuracy': 0.62075, 'dev_pearsonr': 0.3431573763744048, 'dev_accuracy': 0.6415}
+
+=== RESULT [t5-large, profanity] ===
+{'test_pearsonr': 0.2080002109410594, 'test_accuracy': 0.5796, 'dev_pearsonr': 0.2047471108686374, 'dev_accuracy': 0.5785}
+
+=== RESULT [t5-large, severe_toxicity] ===
+{'test_pearsonr': 0.27178604596535566, 'test_accuracy': 0.57745, 'dev_pearsonr': 0.2540894818399919, 'dev_accuracy': 0.5805}
+
+=== RESULT [t5-large, sexually_explicit] ===
+{'test_pearsonr': 0.28994019538527793, 'test_accuracy': 0.63115, 'dev_pearsonr': 0.2918476494850899, 'dev_accuracy': 0.626}
+
+=== RESULT [t5-large, threat] ===
+{'test_pearsonr': 0.37983331365057826, 'test_accuracy': 0.64555, 'dev_pearsonr': 0.38327422649084353, 'dev_accuracy': 0.6595}
+
+=== RESULT [t5-large, toxicity] ===
+{'test_pearsonr': 0.33033570102187537, 'test_accuracy': 0.6301, 'dev_pearsonr': 0.34277281527142567, 'dev_accuracy': 0.6475}
+
