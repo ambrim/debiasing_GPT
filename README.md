@@ -1,5 +1,9 @@
 # Self-Diagnosis and Self-Debiasing
 
+Abstract: The training of LLMs on large, unfiltered corpora sourced from the internet is a common and
+advantageous practice. Consequently, LLMs have learnt and inadvertently reproduced various types of biases, including violent, offensive,
+and toxic language (Gehman et al., 2020). However, recent pretrained GPT language models have been shown to recognize their own biases and detect toxicity in generated content, a process referred to as self-diagnosis. In response, researchers have developed a decoding algorithm for LLMs to self-debias or reduce their likelihood of generating harmful text (Schick et al., 2021). This study investigates the efficacy of the diagnosing-debiasing approach in mitigating two types of biases: insults and political bias. These biases are often used interchangeably in discourse, despite exhibiting potentially dissimilar semantic and syntactic properties. We aim to contribute to the ongoing effort of investigating ethical and social implications of human interaction with LLMs.
+
 This work is based off the paper [Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP](https://arxiv.org/pdf/2103.00453.pdf).
 
 ## 🔧 Setup
